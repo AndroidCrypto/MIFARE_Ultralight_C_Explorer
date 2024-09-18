@@ -108,3 +108,7 @@ An increment by zero (0000h) is always possible, but does not have any impact to
 counter value.
 It is recommended to protect the access to the counter functionality by authentication.
 ```
+
+## License
+
+MIFARE Ultralight C Explorer is available under the MIT license. See the LICENSE.md file for more info.
