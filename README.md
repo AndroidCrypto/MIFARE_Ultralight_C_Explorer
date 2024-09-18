@@ -111,4 +111,4 @@ It is recommended to protect the access to the counter functionality by authenti
 
 ## License
 
-MIFARE Ultralight C Explorer is available under the MIT license. See the LICENSE.md file for more info.
+MIFARE Ultralight C Explorer is available under the MIT license. See the LICENSE file for more info.
